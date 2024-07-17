@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A5505710324%2C%22first_name%22%3A%22Tonix%20%7C%20%F0%9F%90%8B%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22t6nix%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-2946098183171412133&chat_type=sender&start_param=0DIH3UQ&auth_date=1721222716&hash=56593cfc1999a49b40450e92d42bc333390d9a1cc9beb20c39950f0f38010fe6
