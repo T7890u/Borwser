@@ -1,17 +1,18 @@
 {
-  "name": "browser",
+  "name": "borwser",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description": "Welcome to my awesome Telegram bot project! This bot is developed using Node.js and serves various functionalities on the Telegram platform.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Your Name",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.10",
-    "gradient-string": "^2.0.1",
-    "node-telegram-bot": "^0.3.3"
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "gradient-string": "^2.0.2",
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
