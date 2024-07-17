@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const { spawn } = require('child_process');
 
 // Ganti 'YOUR_BOT_TOKEN' dengan token bot Anda
-const bot = new TelegramBot('YOUR_BOT_TOKEN', { polling: true });
+const bot = new TelegramBot('6348983843:AAELWgoq28-jCDhdtC6YoGiDKmLLdXWIaog', { polling: true });
 
 // Fungsi untuk mendapatkan waktu dalam format tertentu
 function getCurrentTime() {
